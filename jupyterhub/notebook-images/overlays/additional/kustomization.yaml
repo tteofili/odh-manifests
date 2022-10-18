@@ -7,6 +7,7 @@ resources:
 - generic-data-science-notebook-imagestream.yaml
 - tensorflow-notebook-imagestream.yaml
 - elyra-notebook-imagestream.yaml
+- trustyai-notebook-imagestream.yaml
 
 commonLabels:
   opendatahub.io/component: "true"

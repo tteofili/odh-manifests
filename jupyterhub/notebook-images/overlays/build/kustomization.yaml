@@ -8,6 +8,7 @@ resources:
 - tensorflow-notebook-buildconfig.yaml
 - spark-minimal-notebook-buildconfig.yaml
 - elyra-notebook-buildconfig.yaml
+- trustyai-notebook-buildconfig.yaml
 
 commonLabels:
   opendatahub.io/component: "true"
