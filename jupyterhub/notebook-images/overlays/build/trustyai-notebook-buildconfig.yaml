@@ -12,7 +12,6 @@ spec:
   source:
     git:
       uri: https://github.com/tteofili/s2i-lab-trustyai
-      ref: v0.1.5
     type: Git
   strategy:
     sourceStrategy:
